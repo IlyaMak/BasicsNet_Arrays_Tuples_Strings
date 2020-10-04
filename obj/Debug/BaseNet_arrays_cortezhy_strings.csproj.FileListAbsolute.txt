@@ -1,0 +1,7 @@
+F:\Projects\ООП\BaseNet_arrays_cortezhy_strings\bin\Debug\BaseNet_arrays_cortezhy_strings.exe.config
+F:\Projects\ООП\BaseNet_arrays_cortezhy_strings\bin\Debug\BaseNet_arrays_cortezhy_strings.exe
+F:\Projects\ООП\BaseNet_arrays_cortezhy_strings\bin\Debug\BaseNet_arrays_cortezhy_strings.pdb
+F:\Projects\ООП\BaseNet_arrays_cortezhy_strings\obj\Debug\BaseNet_arrays_cortezhy_strings.csprojAssemblyReference.cache
+F:\Projects\ООП\BaseNet_arrays_cortezhy_strings\obj\Debug\BaseNet_arrays_cortezhy_strings.csproj.CoreCompileInputs.cache
+F:\Projects\ООП\BaseNet_arrays_cortezhy_strings\obj\Debug\BaseNet_arrays_cortezhy_strings.exe
+F:\Projects\ООП\BaseNet_arrays_cortezhy_strings\obj\Debug\BaseNet_arrays_cortezhy_strings.pdb
